@@ -18,10 +18,10 @@ hiver
      :alt: Updates
 
 
-A cross-platform package manager 
+A cross-platform package manager
 
 
-* Free software: MIT
+* Free software: Apache License 2.0
 * Documentation: https://hiver.readthedocs.io.
 
 

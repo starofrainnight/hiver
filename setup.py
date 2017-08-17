@@ -15,7 +15,8 @@ requirements = [
 
 setup_requirements = [
     'pytest-runner',
-    # TODO(starofrainnight): put setup requirements (distutils extensions, etc.) here
+    # TODO(starofrainnight): put setup requirements (distutils extensions,
+    # etc.) here
 ]
 
 test_requirements = [
@@ -39,13 +40,13 @@ setup(
     },
     include_package_data=True,
     install_requires=requirements,
-    license="MIT License",
+    license="Apache Software License",
     zip_safe=False,
     keywords='hiver',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache Software License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
